@@ -36,12 +36,12 @@ Email: 6730110121@student.chula.ac.th
 🖼️ 2. Picture
 
 ![image](https://github.com/cratchat/Git-Exercise/blob/b38cdf24e4c93feeea6586550bdafd34a2d807e5/Quote.jpg)
-![image](https://github.com/cratchat/Git-Exercise/blob/b38cdf24e4c93feeea6586550bdafd34a2d807e5/Quote.jpg)
+
 
 🎞️ 3. Animation
 
 ![Cat Animation](https://github.com/cratchat/Git-Exercise/blob/b38cdf24e4c93feeea6586550bdafd34a2d807e5/GITGIF.gif)
-
+![image](Animation/GITGIFa.gif)
 
 💬 4. Quote
 
