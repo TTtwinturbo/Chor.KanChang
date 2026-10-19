@@ -46,5 +46,5 @@ Email: 6730110121@student.chula.ac.th
 Revision control gives us the confidence to move forward, because we can always trace our changes and return to what worked.
 
 🎬 5. Video Lecture
-[![Watch the video](https://youtu.be/alfmHTYsEU4
-)](https://youtu.be/alfmHTYsEU4)
+
+https://youtu.be/alfmHTYsEU4
