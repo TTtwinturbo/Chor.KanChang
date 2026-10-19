@@ -36,7 +36,7 @@ Email: 6730110121@student.chula.ac.th
 
 🎞️ 3. Animation
 
-GITGIF.gif
+![Cat Animation](https://github.com/cratchat/Git-Exercise/blob/b38cdf24e4c93feeea6586550bdafd34a2d807e5/GITGIF.gif)
 
 💬 4. Quote
 
