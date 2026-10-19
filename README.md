@@ -47,4 +47,4 @@ Revision control gives us the confidence to move forward, because we can always 
 
 🎬 5. Video Lecture
 
-https://youtu.be/alfmHTYsEU4
+[![Watch the video](https://youtu.be/alfmHTYsEU4?si=epNLRBdiJ50nw5jW)](https://youtu.be/alfmHTYsEU4?si=epNLRBdiJ50nw5jW)
