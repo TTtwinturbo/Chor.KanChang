@@ -30,9 +30,12 @@ Name: Purit Chalearmpanas
 Email: 6730428821@student.chula.ac.th
 Name: Chaipat Ratchatapusit
 Email: 6730110121@student.chula.ac.th
+
+
 🖼️ 2. Picture
 
-*** Place Quote.* here *** 
+![image](https://github.com/cratchat/Git-Exercise/blob/b38cdf24e4c93feeea6586550bdafd34a2d807e5/Quote.jpg)
+
 
 🎞️ 3. Animation
 
