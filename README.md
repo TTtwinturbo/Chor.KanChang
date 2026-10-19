@@ -24,10 +24,11 @@ c) Update this README.md file:
 
 👤 1. Student Information
 
-Name: Thavinthorn Ngaoprommin, 
-Email: 6730239521@student.chula.ac.th, 
+Name: Thavinthorn Ngaoprommin Email: 6730239521@student.chula.ac.th
+
 Name: Purit Chalearmpanas
 Email: 6730428821@student.chula.ac.th
+
 Name: Chaipat Ratchatapusit
 Email: 6730110121@student.chula.ac.th
 
